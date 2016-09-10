@@ -1,0 +1,36 @@
+img {
+	    max-width: 200px;
+	    max-height: 200px;
+	    border: 1px solid black;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+p,a {
+	margin-left: 30px;
+}
+
+.header {
+	text-align: center;
+}
+
+.wrapper {
+	    margin: 0 auto; 
+	    padding: 35px;
+		width: 600px;
+	   	line-height: 25px;
+	    background: white; 
+	    font-family: arial, sans-serif;
+		font-size: 20px;
+	   	font-weight: normal;
+} 
+
+.header, 
+.learning,
+.contacts {
+ 	    border-bottom: 1px solid grey;
+ 	    padding-bottom: 10px;
+ }
+
